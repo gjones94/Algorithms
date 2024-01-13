@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>486b7d3f-bf1f-4c1d-bc49-395fd5e506df</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Sorting\Sort.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="main.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Sorting\Sort.py" />
   </ItemGroup>
   <ItemGroup>
