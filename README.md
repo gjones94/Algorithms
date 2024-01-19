@@ -1,4 +1,4 @@
-<h1> A repo for common algorithms and data structures </h1>
+<h1> Common algorithms and data structures </h1>
 
 [IN PROGRESS]
 
